@@ -1,2 +1,2 @@
-BOT_TOKEN = "твой токен от BotFather"
+BOT_TOKEN = "8723575189:AAGUMNqYcHrGCCkhmc4LUVQ2A7nhh4uh8kY"
 ADMIN_ID = @AAA_B98
